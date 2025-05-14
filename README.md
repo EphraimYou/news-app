@@ -15,7 +15,7 @@ A modern, clean, and responsive **Flutter News App** that fetches the latest new
 ## 📸 Screenshots
 | | | | | 
 |--|--|--|--|
-| ![Login](screenShots/Screenshot_1.png) | ![Welcome](screenShots/Screenshot_2.png) | ![Register](screenShots/Screenshot_3.png) | ![Welcome](screenShots/Screenshot_4.png) |
+| ![Login](screenShots/Screenshot_1.png) | ![Welcome](screenShots/Screenshot_2.png) | ![Register](screenShots/Screenshot_4.png) | ![Welcome](screenShots/Screenshot_3.png) |
 
 **
 ## 🔌 API Integration
